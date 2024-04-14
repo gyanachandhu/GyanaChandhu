@@ -2,7 +2,7 @@
 
 A webdeveloper from India.
 
-- 🔭 I’m currently working on webdevelopment projects to improvee my webdevelopment skills.
+- 🔭 I’m currently working on webdevelopment 
 - 📫 How to reach me chandhugyana@gmail.com
 
   
